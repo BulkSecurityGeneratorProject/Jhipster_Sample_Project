@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.jhipster.springboot.app",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "simpleSpringBootJhipster",
+        "packageName": "com.jhipster.springboot.app",
+        "packageFolder": "com/jhipster/springboot/app",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "Yzg5MjJiYmIzNjAwM2UwODRlNWE1ZGQ3NTMyZmJkN2NkNGI1ZjQzMDRjM2IzZGU4OWY0NjRjNWY1ZjIwYmU4NTg3OWJhNjFlNTM3MmQ3YjMyMDgzYWQ4YzJhYzRkYzEwOGZjMzM5YWY2OWZjZTEzNjEzZTIwZGQ4N2YxNWY5NWE=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
